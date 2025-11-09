@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 0880b062d87674b00afff9d66082a82f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8354214398320601900
+    second: T-ARES_1.1_by_Hatred_0
+  - first:
+      213: -6745399912883368916
+    second: T-ARES_1.1_by_Hatred_1
+  - first:
+      213: -504351434913152154
+    second: T-ARES_1.1_by_Hatred_2
+  - first:
+      213: 8648331331257637884
+    second: T-ARES_1.1_by_Hatred_3
+  - first:
+      213: -1900905123068011377
+    second: T-ARES_1.1_by_Hatred_4
+  - first:
+      213: -4361802216029125864
+    second: T-ARES_1.1_by_Hatred_5
+  - first:
+      213: 7369398822058958183
+    second: T-ARES_1.1_by_Hatred_6
+  - first:
+      213: 837527336875092287
+    second: T-ARES_1.1_by_Hatred_7
+  - first:
+      213: 3331503947488003813
+    second: T-ARES_1.1_by_Hatred_8
+  - first:
+      213: 4510043449265157141
+    second: T-ARES_1.1_by_Hatred_9
+  - first:
+      213: -2220096700019883985
+    second: T-ARES_1.1_by_Hatred_10
+  - first:
+      213: -5909379302941865021
+    second: T-ARES_1.1_by_Hatred_11
+  - first:
+      213: -2739146970439195653
+    second: T-ARES_1.1_by_Hatred_12
+  - first:
+      213: -2994993073105240852
+    second: T-ARES_1.1_by_Hatred_13
+  - first:
+      213: 6497113178664316992
+    second: T-ARES_1.1_by_Hatred_14
+  - first:
+      213: -6706990574688728961
+    second: T-ARES_1.1_by_Hatred_15
+  - first:
+      213: -4809154813168029102
+    second: T-ARES_1.1_by_Hatred_16
+  - first:
+      213: 1509971056279470347
+    second: T-ARES_1.1_by_Hatred_17
+  - first:
+      213: -2165271418564484364
+    second: T-ARES_1.1_by_Hatred_18
+  - first:
+      213: -7742745396642145673
+    second: T-ARES_1.1_by_Hatred_19
+  - first:
+      213: 6539128773110068837
+    second: T-ARES_1.1_by_Hatred_20
+  - first:
+      213: -8834198794232104780
+    second: T-ARES_1.1_by_Hatred_21
+  - first:
+      213: 2777025355914593480
+    second: T-ARES_1.1_by_Hatred_22
+  - first:
+      213: 9090521880094015018
+    second: T-ARES_1.1_by_Hatred_23
+  - first:
+      213: 2452130315129438849
+    second: T-ARES_1.1_by_Hatred_24
+  - first:
+      213: -5429844347229785092
+    second: T-ARES_1.1_by_Hatred_25
+  - first:
+      213: 4760788854898026280
+    second: T-ARES_1.1_by_Hatred_26
+  - first:
+      213: -7703367351997276302
+    second: T-ARES_1.1_by_Hatred_27
+  - first:
+      213: 1928088480908491480
+    second: T-ARES_1.1_by_Hatred_28
+  - first:
+      213: 4940166948629508698
+    second: T-ARES_1.1_by_Hatred_29
+  - first:
+      213: -5605517910228291969
+    second: T-ARES_1.1_by_Hatred_30
+  - first:
+      213: 4308798585884964187
+    second: T-ARES_1.1_by_Hatred_31
+  - first:
+      213: -5383733402474269367
+    second: T-ARES_1.1_by_Hatred_32
+  - first:
+      213: 2336212601348273890
+    second: T-ARES_1.1_by_Hatred_33
+  - first:
+      213: -811156404289113676
+    second: T-ARES_1.1_by_Hatred_34
+  - first:
+      213: 9100162628922277631
+    second: T-ARES_1.1_by_Hatred_35
+  - first:
+      213: -6814001799037913572
+    second: T-ARES_1.1_by_Hatred_36
+  - first:
+      213: -4033281479441686226
+    second: T-ARES_1.1_by_Hatred_37
+  - first:
+      213: -3357736182931228732
+    second: T-ARES_1.1_by_Hatred_38
+  - first:
+      213: -2378562582242989382
+    second: T-ARES_1.1_by_Hatred_39
+  - first:
+      213: 2166031071533863196
+    second: T-ARES_1.1_by_Hatred_40
+  - first:
+      213: -2206234125751485490
+    second: T-ARES_1.1_by_Hatred_41
+  - first:
+      213: -5078121898713974715
+    second: T-ARES_1.1_by_Hatred_42
+  - first:
+      213: 1458225114510878788
+    second: T-ARES_1.1_by_Hatred_43
+  - first:
+      213: 2807188132677961135
+    second: T-ARES_1.1_by_Hatred_44
+  - first:
+      213: -7880924198800255940
+    second: T-ARES_1.1_by_Hatred_45
+  - first:
+      213: -7997820338694095463
+    second: T-ARES_1.1_by_Hatred_46
+  - first:
+      213: -4105560485500177065
+    second: T-ARES_1.1_by_Hatred_47
+  - first:
+      213: -5276344215825208725
+    second: T-ARES_1.1_by_Hatred_48
+  - first:
+      213: -914393691250270274
+    second: T-ARES_1.1_by_Hatred_49
+  - first:
+      213: -8920640699895930722
+    second: T-ARES_1.1_by_Hatred_50
+  - first:
+      213: -1360143849744511177
+    second: T-ARES_1.1_by_Hatred_51
+  - first:
+      213: 9178999801381432744
+    second: T-ARES_1.1_by_Hatred_52
+  - first:
+      213: 4311306971873288839
+    second: T-ARES_1.1_by_Hatred_53
+  - first:
+      213: 8414825532011489842
+    second: T-ARES_1.1_by_Hatred_54
+  - first:
+      213: -6032319676401056339
+    second: T-ARES_1.1_by_Hatred_55
+  - first:
+      213: 8659379766149545866
+    second: T-ARES_1.1_by_Hatred_56
+  - first:
+      213: 6091210362324661386
+    second: T-ARES_1.1_by_Hatred_57
+  - first:
+      213: 2794118494467914840
+    second: T-ARES_1.1_by_Hatred_58
+  - first:
+      213: 8543510961356701852
+    second: T-ARES_1.1_by_Hatred_59
+  - first:
+      213: -3549751000602610925
+    second: T-ARES_1.1_by_Hatred_60
+  - first:
+      213: -7613166262795205446
+    second: T-ARES_1.1_by_Hatred_61
+  - first:
+      213: 9095489069325448596
+    second: T-ARES_1.1_by_Hatred_62
+  - first:
+      213: 8631653174360454733
+    second: T-ARES_1.1_by_Hatred_63
+  - first:
+      213: -8185054491836857572
+    second: T-ARES_1.1_by_Hatred_64
+  - first:
+      213: 7123330222383103672
+    second: T-ARES_1.1_by_Hatred_65
+  - first:
+      213: -1918652054604789208
+    second: T-ARES_1.1_by_Hatred_66
+  - first:
+      213: 1203480064454790524
+    second: T-ARES_1.1_by_Hatred_67
+  - first:
+      213: -3635601747143767744
+    second: T-ARES_1.1_by_Hatred_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b6a559bb120f370800000000000000
+      internalID: 8354214398320601900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cc2a494868362a0800000000000000
+      internalID: -6745399912883368916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6630b08ca0f2009f0800000000000000
+      internalID: -504351434913152154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1e73668b050870800000000000000
+      internalID: 8648331331257637884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c9fcbacd0ae95e0800000000000000
+      internalID: -1900905123068011377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813821d8ef3c773c0800000000000000
+      internalID: -4361802216029125864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d91051f2d554660800000000000000
+      internalID: 7369398822058958183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f396e1cecae7f9b00800000000000000
+      internalID: 837527336875092287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e685dd6031eb3e20800000000000000
+      internalID: 3331503947488003813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f6033f94e69e30800000000000000
+      internalID: 4510043449265157141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f204c4c50d1a031e0800000000000000
+      internalID: -2220096700019883985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbca1d45daadfda0800000000000000
+      internalID: -5909379302941865021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3626fc7589cf9d0800000000000000
+      internalID: -2739146970439195653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec7ecc0ba5af66d0800000000000000
+      internalID: -2994993073105240852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040bbc743026a2a50800000000000000
+      internalID: 6497113178664316992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7809c38b9bfbe2a0800000000000000
+      internalID: -6706990574688728961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252724b6d23724db0800000000000000
+      internalID: -4809154813168029102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c8aeecae74f410800000000000000
+      internalID: 1509971056279470347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2682eed1963f1e0800000000000000
+      internalID: -2165271418564484364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9ad6a51e3c8490800000000000000
+      internalID: -7742745396642145673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566f2cd29f6afba50800000000000000
+      internalID: 6539128773110068837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b87c92900f966580800000000000000
+      internalID: -8834198794232104780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_22
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4ca8f09d9f98620800000000000000
+      internalID: 2777025355914593480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7bed7c75082e70800000000000000
+      internalID: 9090521880094015018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_24
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c1489787b70220800000000000000
+      internalID: 2452130315129438849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_25
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 111
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b4b1b55155a4b0800000000000000
+      internalID: -5429844347229785092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 84
+        width: 82
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827e5d26d38b11240800000000000000
+      internalID: 4760788854898026280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_27
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f5cd12534281590800000000000000
+      internalID: -7703367351997276302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dab2180242f1ca10800000000000000
+      internalID: 1928088480908491480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52ff286aaffe8440800000000000000
+      internalID: 4940166948629508698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea0c2f8233532b0800000000000000
+      internalID: -5605517910228291969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55f0602c7debcb30800000000000000
+      internalID: 4308798585884964187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945bd14aef22945b0800000000000000
+      internalID: -5383733402474269367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_33
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b72fabf4eb6020800000000000000
+      internalID: 2336212601348273890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_34
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b170194c813eb4f0800000000000000
+      internalID: -811156404289113676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe723f32b54a4e70800000000000000
+      internalID: 9100162628922277631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_36
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16f875477dcf61a0800000000000000
+      internalID: -6814001799037913572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2167ba1dd7e608c0800000000000000
+      internalID: -4033281479441686226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 68
+        width: 82
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c778ee4bbce661d0800000000000000
+      internalID: -3357736182931228732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 52
+        width: 82
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaee510fe5adfed0800000000000000
+      internalID: -2378562582242989382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 82
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c111c3f88c94f0e10800000000000000
+      internalID: 2166031071533863196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbfc3370c1e161e0800000000000000
+      internalID: -2206234125751485490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5487505c903e689b0800000000000000
+      internalID: -5078121898713974715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44869f00408ac3410800000000000000
+      internalID: 1458225114510878788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa546f9cbb225f620800000000000000
+      internalID: 2807188132677961135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_45
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c341bb4323551a290800000000000000
+      internalID: -7880924198800255940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d7eb6b6c8020190800000000000000
+      internalID: -7997820338694095463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_47
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755b1e99d7e1607c0800000000000000
+      internalID: -4105560485500177065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a2d0714e8a6c6b0800000000000000
+      internalID: -5276344215825208725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_49
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf5b2058cb6f43f0800000000000000
+      internalID: -914393691250270274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_50
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90afc90c84833480800000000000000
+      internalID: -8920640699895930722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fcb80006ccf1de0800000000000000
+      internalID: -1360143849744511177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_52
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada8badfab526f70800000000000000
+      internalID: 9178999801381432744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_53
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 2
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7822c2049d6d4db30800000000000000
+      internalID: 4311306971873288839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_54
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aae6adc3777c470800000000000000
+      internalID: 8414825532011489842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_55
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da504840735e84ca0800000000000000
+      internalID: -6032319676401056339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f7c88940c4c2870800000000000000
+      internalID: 8659379766149545866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_57
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a843a8a4d83588450800000000000000
+      internalID: 6091210362324661386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_58
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cfb1387f3b6c620800000000000000
+      internalID: 2794118494467914840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_59
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90825234f5a09670800000000000000
+      internalID: 8543510961356701852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_60
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3137ef7b540ccbec0800000000000000
+      internalID: -3549751000602610925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_61
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab48a1ace99985690800000000000000
+      internalID: -7613166262795205446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_62
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495779b5e1ba93e70800000000000000
+      internalID: 9095489069325448596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_63
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46b02264dac9c770800000000000000
+      internalID: 8631653174360454733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1349d25e48d86e80800000000000000
+      internalID: -8185054491836857572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_65
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bef2f2a8172bd260800000000000000
+      internalID: 7123330222383103672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_66
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a45bd2f149f55e0800000000000000
+      internalID: -1918652054604789208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_67
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d87180ebe93b010800000000000000
+      internalID: 1203480064454790524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T-ARES_1.1_by_Hatred_68
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049c4b4297fbb8dc0800000000000000
+      internalID: -3635601747143767744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      T-ARES_1.1_by_Hatred_0: 8354214398320601900
+      T-ARES_1.1_by_Hatred_1: -6745399912883368916
+      T-ARES_1.1_by_Hatred_10: -2220096700019883985
+      T-ARES_1.1_by_Hatred_11: -5909379302941865021
+      T-ARES_1.1_by_Hatred_12: -2739146970439195653
+      T-ARES_1.1_by_Hatred_13: -2994993073105240852
+      T-ARES_1.1_by_Hatred_14: 6497113178664316992
+      T-ARES_1.1_by_Hatred_15: -6706990574688728961
+      T-ARES_1.1_by_Hatred_16: -4809154813168029102
+      T-ARES_1.1_by_Hatred_17: 1509971056279470347
+      T-ARES_1.1_by_Hatred_18: -2165271418564484364
+      T-ARES_1.1_by_Hatred_19: -7742745396642145673
+      T-ARES_1.1_by_Hatred_2: -504351434913152154
+      T-ARES_1.1_by_Hatred_20: 6539128773110068837
+      T-ARES_1.1_by_Hatred_21: -8834198794232104780
+      T-ARES_1.1_by_Hatred_22: 2777025355914593480
+      T-ARES_1.1_by_Hatred_23: 9090521880094015018
+      T-ARES_1.1_by_Hatred_24: 2452130315129438849
+      T-ARES_1.1_by_Hatred_25: -5429844347229785092
+      T-ARES_1.1_by_Hatred_26: 4760788854898026280
+      T-ARES_1.1_by_Hatred_27: -7703367351997276302
+      T-ARES_1.1_by_Hatred_28: 1928088480908491480
+      T-ARES_1.1_by_Hatred_29: 4940166948629508698
+      T-ARES_1.1_by_Hatred_3: 8648331331257637884
+      T-ARES_1.1_by_Hatred_30: -5605517910228291969
+      T-ARES_1.1_by_Hatred_31: 4308798585884964187
+      T-ARES_1.1_by_Hatred_32: -5383733402474269367
+      T-ARES_1.1_by_Hatred_33: 2336212601348273890
+      T-ARES_1.1_by_Hatred_34: -811156404289113676
+      T-ARES_1.1_by_Hatred_35: 9100162628922277631
+      T-ARES_1.1_by_Hatred_36: -6814001799037913572
+      T-ARES_1.1_by_Hatred_37: -4033281479441686226
+      T-ARES_1.1_by_Hatred_38: -3357736182931228732
+      T-ARES_1.1_by_Hatred_39: -2378562582242989382
+      T-ARES_1.1_by_Hatred_4: -1900905123068011377
+      T-ARES_1.1_by_Hatred_40: 2166031071533863196
+      T-ARES_1.1_by_Hatred_41: -2206234125751485490
+      T-ARES_1.1_by_Hatred_42: -5078121898713974715
+      T-ARES_1.1_by_Hatred_43: 1458225114510878788
+      T-ARES_1.1_by_Hatred_44: 2807188132677961135
+      T-ARES_1.1_by_Hatred_45: -7880924198800255940
+      T-ARES_1.1_by_Hatred_46: -7997820338694095463
+      T-ARES_1.1_by_Hatred_47: -4105560485500177065
+      T-ARES_1.1_by_Hatred_48: -5276344215825208725
+      T-ARES_1.1_by_Hatred_49: -914393691250270274
+      T-ARES_1.1_by_Hatred_5: -4361802216029125864
+      T-ARES_1.1_by_Hatred_50: -8920640699895930722
+      T-ARES_1.1_by_Hatred_51: -1360143849744511177
+      T-ARES_1.1_by_Hatred_52: 9178999801381432744
+      T-ARES_1.1_by_Hatred_53: 4311306971873288839
+      T-ARES_1.1_by_Hatred_54: 8414825532011489842
+      T-ARES_1.1_by_Hatred_55: -6032319676401056339
+      T-ARES_1.1_by_Hatred_56: 8659379766149545866
+      T-ARES_1.1_by_Hatred_57: 6091210362324661386
+      T-ARES_1.1_by_Hatred_58: 2794118494467914840
+      T-ARES_1.1_by_Hatred_59: 8543510961356701852
+      T-ARES_1.1_by_Hatred_6: 7369398822058958183
+      T-ARES_1.1_by_Hatred_60: -3549751000602610925
+      T-ARES_1.1_by_Hatred_61: -7613166262795205446
+      T-ARES_1.1_by_Hatred_62: 9095489069325448596
+      T-ARES_1.1_by_Hatred_63: 8631653174360454733
+      T-ARES_1.1_by_Hatred_64: -8185054491836857572
+      T-ARES_1.1_by_Hatred_65: 7123330222383103672
+      T-ARES_1.1_by_Hatred_66: -1918652054604789208
+      T-ARES_1.1_by_Hatred_67: 1203480064454790524
+      T-ARES_1.1_by_Hatred_68: -3635601747143767744
+      T-ARES_1.1_by_Hatred_7: 837527336875092287
+      T-ARES_1.1_by_Hatred_8: 3331503947488003813
+      T-ARES_1.1_by_Hatred_9: 4510043449265157141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
