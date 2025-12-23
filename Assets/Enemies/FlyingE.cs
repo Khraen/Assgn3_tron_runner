@@ -1,18 +1,22 @@
 using UnityEngine;
 using System.Collections;
 
+
 public class FlyingE : MonoBehaviour
 {
     private Animator animator_;
   private int health = 1;
   private SpriteRenderer sprite_;
   public GameObject AttkBox;
+  
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
     animator_ = GetComponent<Animator>();
     sprite_ = GetComponent<SpriteRenderer>();
+     
+    
 
     }
 
@@ -47,7 +51,9 @@ public class FlyingE : MonoBehaviour
     private void Die()
   {
     AttkBox.SetActive(false);
+    
     StartCoroutine(FadeOut(1.5f));
+    
     
     
 

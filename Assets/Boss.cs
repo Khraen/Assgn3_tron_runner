@@ -10,7 +10,7 @@ public class Boss : MonoBehaviour
     public GameObject beam;             // Beam attack (child object)
 
     [Header("Attack Settings")]
-    public float minShootDelay = 2f;   // Minimum time between attacks
+    public float minShootDelay = 3f;   // Minimum time between attacks
     public float maxShootDelay = 5f;   // Maximum time between attacks
 
     private Coroutine attackCoroutine;

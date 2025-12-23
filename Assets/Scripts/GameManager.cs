@@ -39,7 +39,7 @@ public class GameManager : MonoBehaviour
 
     IEnumerator BossPhaseCycle()
     {
-        yield return new WaitForSeconds(20f); // initial delay
+        yield return new WaitForSeconds(15f); // initial delay
 
         while (true)
         {
@@ -68,7 +68,7 @@ public class GameManager : MonoBehaviour
             yield return StartCoroutine(MoveBoss(bossTransform.position, bossHiddenPos));
             
             // Keep boss hidden for a while
-            yield return new WaitForSeconds(15f);
+            yield return new WaitForSeconds(5f);
 
             // Boss phase ON
             spawner.isBossPhase = true;

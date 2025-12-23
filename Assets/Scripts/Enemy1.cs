@@ -7,12 +7,14 @@ public class Enemy1 : MonoBehaviour
   private int health = 2;
   private SpriteRenderer sprite_;
   public GameObject AttkBox;
+  Rigidbody2D rb;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
     animator_ = GetComponent<Animator>();
     sprite_ = GetComponent<SpriteRenderer>();
+    rb = GetComponent<Rigidbody2D>();
 
     }
 
@@ -47,6 +49,8 @@ public class Enemy1 : MonoBehaviour
     private void Die()
   {
     AttkBox.SetActive(false);
+    rb.constraints = RigidbodyConstraints2D.FreezePositionY;
+    GetComponent<BoxCollider2D>().enabled = false;
     StartCoroutine(FadeOut(1.5f));
     
     

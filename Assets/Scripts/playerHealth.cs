@@ -44,7 +44,7 @@ public class playerHealth : MonoBehaviour
   }
   private void OnTriggerEnter2D(Collider2D other)
   {
-    if (other.CompareTag("enemy"))
+    if (other.CompareTag("enemy") || other.CompareTag("BossBullet"))
     {
       Debug.Log("Player took damage.");
       takeDmg();

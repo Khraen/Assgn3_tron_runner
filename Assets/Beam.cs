@@ -18,4 +18,12 @@ public class Beam : MonoBehaviour
   {
         gameObject.SetActive(false);
   }
+  public void TurnColliderOff()
+  {
+    GetComponent<BoxCollider2D>().enabled = false;
+  }
+  public void TurnColliderOn()
+  {
+    GetComponent<BoxCollider2D>().enabled = true;
+  }
 }
