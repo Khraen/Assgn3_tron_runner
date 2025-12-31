@@ -8,7 +8,7 @@ public class BossHealth : MonoBehaviour
 
     [Header("Health Settings")]
     private int maxHealth = 200;
-    private int damagePerHit = 10;
+    private int damagePerHit = 1;
 
     private int currentHealth;
     private bool isAlive = true;
